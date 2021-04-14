@@ -82,6 +82,4 @@ export class AuthComponent implements OnDestroy {
     })
   }
 
- 
-
 }

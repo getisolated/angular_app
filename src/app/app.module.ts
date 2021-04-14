@@ -62,4 +62,5 @@ import { PlaceHolderDirective } from './shared/placeholder/placeholder.directive
     AlertComponentComponent,
   ]
 })
+
 export class AppModule {}
